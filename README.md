@@ -6,4 +6,6 @@
 - working solution: pointcloud density, define t-test?
 ### SDF
 - pyvista SDF gives nonsense
+  - SDF is OK and fast! was bug in my code
 - ToDO: check out trimesh, IGL
+  - unnecessary
