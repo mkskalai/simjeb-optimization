@@ -9,3 +9,7 @@
   - SDF is OK and fast! was bug in my code
 - ToDO: check out trimesh, IGL
   - unnecessary
+ ### ToDo
+ - filter outliers
+ - train DeepSDF
+ - try out voxelization
