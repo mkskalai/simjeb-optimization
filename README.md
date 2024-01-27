@@ -10,6 +10,6 @@
 - ToDO: check out trimesh, IGL
   - unnecessary
  ### ToDo
- - filter outliers
+ - filter outliers: Done
  - train DeepSDF
  - try out voxelization
