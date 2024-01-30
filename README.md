@@ -1,5 +1,8 @@
 # simjeb-optimization
 ## Notes
+### 30.01.2023
+- 8x512 DeepSDF makes around 10 epochs / h on CPU. consider switching to cloud
+  - especially since probably many experiments will be required
 ### EDA
 - tSNE and PCA didn't work on SDF clusters
 - ToDo: research about pyvista's SDF
